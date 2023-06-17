@@ -1,0 +1,481 @@
+
+/*Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+
+
+    .section-title h2 {
+     
+        font-size: 26px;
+        line-height: 30px;
+       
+    }
+    /** headetop **/
+    .header-logo {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+/******  banner area **********/
+
+    .banner-text-area h2 {
+        font-size: 20px;   
+    }
+    .banner-text-area h3 {
+
+        font-size: 26px;   
+        line-height: 30px;
+    }
+    a.btn.product-area-btn {
+        font-size: 14px;
+        margin-bottom: 10px;
+        float: left;
+        margin-right: 5px;
+    }
+    .banner-text-area {
+        margin-top: 39px;
+        padding-bottom: 21px;
+    }
+    .banner-area-inner .banner-img {
+        
+        display: none;
+    }
+    a.btn.product-az-btn {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    a.btn.product-az-btn {
+        color: rgba(255,255,255,1);
+      
+        padding: 6px 40px;
+       
+    }
+  
+/*******  vaccination-area start**********/
+    section.vaccination {
+    
+        margin-left: 0;
+    }
+
+    .vaccine-info-area .owl-nav {
+         top: 36%;
+        left: 69%;
+    }
+    a.btn.view-more {
+       
+        margin-top: -25px;
+        margin-bottom: 18px;
+        margin-left: -11px;
+    }
+    .vaccine-info-area.owl-carousel button.owl-dot {
+        
+        width: 14%;
+        
+        /* opacity: .5; */
+    }
+    /******* our-story ************/
+    .video-bg {
+        padding: 0;
+    }
+
+    .story-text h4 {
+        font-size: 26px;
+        line-height: 40px;
+        margin: 10px  0;
+    }
+    a.btn.btn-learn {
+        
+        margin-bottom: 10px;
+    }
+    /******* cta area*********/
+  
+    .cta-left-text h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-right: 5px;
+    }
+
+    /******** product-info area  **********/
+
+    .product_info .nav-tabs {
+        border-bottom: 1px solid #dee2e6;
+        width: 100%;
+    }
+    .product_info .nav-tabs .nav-link {
+        font-size: 16px;
+        margin-right: -16px;
+    }
+    .product_info h2.accordion-header button {
+        font-size: 26px;
+        line-height: 30px;
+        
+    }
+
+    .product_info .accordion-button::after {
+        
+        width: 31px !important;
+        height: 31px !important;
+        line-height: 31px;
+       
+    }
+
+/*********   blog area *********/
+
+    .blog-content h4 {
+        font-size: 26px;
+    
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    /******  footer *********/
+    .footer-widgets p {
+        padding-right: 0;
+        
+    }
+    #button {
+        
+        display: none;
+    }
+
+    /***  footer ***/
+
+    .copy_right_text {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .footer_social-area {
+        text-align: center;
+        margin: 8px 0;
+    }
+
+    /******  product page ********/
+
+  
+    .banner-text-area.story-banner-text p {
+        font-size: 26px;
+        line-height: 30px;
+        font-weight: 300;
+        color: rgba(255,255,255,1);
+    }
+
+    .latest_story #nav-tab {
+        width: 100%;
+    }
+    .mp-both{
+
+        margin: 0 0px !important;
+       
+    }
+    .story-text {
+        margin-top: 0;
+    }
+    section.blog-area {
+        padding: 40px 0;
+    }
+    .single-blog-box {
+        margin-top: 30px;
+    }
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .header-logo span {
+        display: none;
+    }
+    .section-title h2 {
+     
+        font-size: 26px;
+        line-height: 30px;
+       
+    }
+    /** headetop **/
+    .header-logo {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+/******  banner area **********/
+
+    .banner-text-area h2 {
+        font-size: 20px;   
+    }
+    .banner-text-area h3 {
+
+        font-size: 26px;   
+        line-height: 30px;
+    }
+    a.btn.product-area-btn {
+
+        font-size: 14px; 
+        
+    }
+    .banner-text-area {
+        margin-top: 39px;
+        padding-bottom: 21px;
+    }
+    .banner-area-inner .banner-img {
+        
+        display: none;
+    }
+    a.btn.product-az-btn {
+        
+        margin-left: 0;
+        
+    }
+
+
+    .banner-text-area.story-banner-text p {
+        font-size: 26px;
+        line-height: 30px;
+        font-weight: 300;
+        color: rgba(255,255,255,1);
+    }
+    
+/*******  vaccination-area start**********/
+    section.vaccination {
+    
+        margin-left: 0;
+    }
+
+    .vaccine_number {
+        font-size: 50px;
+        line-height: 21px;
+        margin-top: 20px;
+    }
+    .vaccine_info-details {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .vaccine-info-area .owl-nav {
+        top: 36%;
+        left: 38%;
+    }
+    a.btn.view-more {
+       
+        margin-top: -25px;
+        margin-bottom: 18px;
+        margin-left: -11px;
+    }
+    .vaccine-info-area.owl-carousel button.owl-dot {
+        
+        width: 14%;
+        
+        /* opacity: .5; */
+    }
+    /******* our-story ************/
+    .video-bg {
+        padding: 0;
+    }
+
+    .story-text h4 {
+        font-size: 26px;
+        line-height: 40px;
+        margin: 10px  0;
+    }
+    a.btn.btn-learn {
+        
+        margin-bottom: 10px;
+    }
+    /******* cta area*********/
+  
+    .cta-left-text h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-right: 5px;
+    }
+
+    /******** product-info area  **********/
+
+    .product_info .nav-tabs {
+        border-bottom: 1px solid #dee2e6;
+        width: 100%;
+    }
+    .product_info .nav-tabs .nav-link {
+    
+        font-size: 16px;
+   
+    }
+    .product_info h2.accordion-header button {
+        font-size: 26px;
+        line-height: 30px;
+        
+    }
+
+    .product_info .accordion-button::after {
+        
+        width: 31px !important;
+        height: 31px !important;
+        line-height: 31px;
+       
+    }
+
+/*********   blog area *********/
+
+    .blog-content h4 {
+        font-size: 26px;
+    
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    /******  footer *********/
+    .footer-widgets p {
+        padding-right: 0;
+        
+    }
+    #button {
+        
+        display: none;
+    }
+    
+    /***  footer ***/
+
+    .copy_right_text {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .footer_social-area {
+        text-align: center;
+        margin: 8px 0;
+    }
+
+
+    /******  product page ********/
+
+    .latest_story #nav-tab {
+        width: 100%;
+    }
+    section.our-stories {
+    padding-top: 0;
+}
+    
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+    /** banner area **/
+    .banner-text-area {
+        margin-top: 20px;
+        margin-bottom: 27px;
+    }
+
+
+    .banner-area-inner .banner-img {
+    
+        right: 0;
+    }
+    .banner-text-area h3 {
+        
+        font-size: 40px;
+        line-height: 60px;
+        
+    }
+
+
+    .section-title h2 {
+      
+        font-size: 40px;
+      line-height: 50px;
+        font-weight: 600;
+    }
+    section.vaccination {
+      
+        margin-left: 0;
+    }
+    .vaccine-info-area.owl-carousel button.owl-dot {
+        width: 13%;
+    }
+
+    .vaccine-info-area .owl-nav {
+        left: 40%;
+    }
+    .vaccine_number {
+        font-size: 50px;
+    
+    }
+
+    .video-bg {
+        padding: 0;
+     
+
+        
+    }
+
+    .story-box h4 {
+        font-size: 31px;
+       
+    }
+    .play-button {
+        position: absolute;
+        top: 48%;
+        left: 45%;
+    }
+    .story-text {
+        margin-top: 50px;
+        margin-bottom: 24px;
+    }
+    .cta-left-text h2 {
+        font-size: 40px;
+        line-height: 60px;
+        margin-right: 0px;
+    }
+    .cta-right-text {
+        border-left: none;
+      
+    }
+    .cta-right-text p {
+    
+        padding-left: 0;
+    }
+    .product_info h2.accordion-header button {
+        font-size: 40px;
+        line-height: 60px;
+        
+    }
+    /******  product page  ********/
+    .latest_story #nav-tab {
+        width: 100%;
+    }
+
+    .back_to_top {
+        display: none;
+    }
+    
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+
+   
+ }
+
+
+ /* Extra-Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1299.98px) { 
+ 
+
+
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1300px) {
+    
+    
+
+   
+
+
+}
